@@ -1,1 +1,2 @@
 sphn clg
+we are learning git and github
